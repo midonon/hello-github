@@ -1,2 +1,2 @@
 # hello-github
-とりあえず試してみる
+This is my awesome repo.
